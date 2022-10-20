@@ -1,6 +1,6 @@
 certifi==2022.9.24
 cffi==1.15.1
-charset-normalizer==3.0.0
+charset-normalizer==2.1.1
 Deprecated==1.2.13
 dominate==2.7.0
 idna==3.4
